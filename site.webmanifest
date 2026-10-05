@@ -1,0 +1,14 @@
+{
+  "name": "Vimes Joinville — Móveis de Área Externa",
+  "short_name": "Vimes Joinville",
+  "description": "Móveis para área externa em corda náutica, alumínio e madeira. Showroom em Joinville/SC.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4EEE3",
+  "theme_color": "#F4EEE3",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

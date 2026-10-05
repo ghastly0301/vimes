@@ -1,0 +1,10 @@
+# Saídas de QA (geradas por tools/qa.js e tools/shots.js)
+tools/qa-out/
+tools/shots/
+tools/artifact/
+
+# macOS
+.DS_Store
+
+# Dependências (o projeto não usa build; o Playwright vem de fora)
+node_modules/
